@@ -24,9 +24,9 @@ main .infoTop .paymentLeft dd a {}
 main .infoTop .paymentLeft dd img {}
 main .infoTop .paymentLeft dd em {}
 main .infoTop .paymentLeft .deliveryInfo {}
-main .infoTop .paymentLeft .deliveryInfo dt {}
-main .infoTop .paymentLeft .deliveryInfo dd {}
-main .infoTop .paymentLeft .deliveryInfo dd strong {}
+main .infoTop .paymentLeft .deliveryInfo p {}
+main .infoTop .paymentLeft .deliveryInfo p em {}
+main .infoTop .paymentLeft .deliveryInfo p strong {}
 main .infoTop .bookPayment {}
 main .infoTop .bookPayment fieldset {}
 main .infoTop .bookPayment fieldset legend {}
@@ -35,4 +35,6 @@ main .infoTop .bookPayment fieldset .paymentRight dt {}
 main .infoTop .bookPayment fieldset .paymentRight dd {}
 main .infoTop .bookPayment fieldset .paymentRight dd .number {}
 main .infoTop .bookPayment fieldset .paymentRight dd .cart {}
+main .infoTop .bookPayment fieldset .paymentRight dd .pay {}
+main .infoTop .bookPayment fieldset .paymentRight dd .list {}
 main .infoTop .bookPayment fieldset .paymentRight dd .alarm {}
